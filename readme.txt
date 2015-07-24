@@ -11,9 +11,11 @@ Kint debugger for WordPress - a powerful and modern PHP debugging tool.
 
 == Description ==
 
-PCo-Kint is a simple WordPress plugin wrapper for [kint](https://github.com/raveren/kint/), a pretty replacement for [http://php.net/manual/en/function.var-dump.php](var_dump()), [http://php.net/manual/en/function.print-r.php](print_r()) and [http://php.net/manual/en/function.debug-backtrace.php](debug_backtrace()). Kint is also a great replacement to Krumo!
+PCo-Kint is a simple WordPress plugin wrapper for [kint](https://github.com/raveren/kint/), a pretty replacement for [var_dump()](http://php.net/manual/en/function.var-dump.php), [print_r()](http://php.net/manual/en/function.print-r.php]) and [debug_backtrace()](http://php.net/manual/en/function.debug-backtrace.php]). Kint is also a great replacement to Krumo!
 
-Simply use the `d()` function to output your objects or arrays, or use `ddd()` if you want to terminate the current script. A great alternative to `echo'<pre>';var_dump($var);die;`!
+Simply use the `d()` function to output your objects or arrays, or use `ddd()` if you want to terminate the current script.
+
+A great alternative to `echo'<pre>';var_dump($var);die;`!
 
 A full list of features can be found on the project page:
 
