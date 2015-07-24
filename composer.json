@@ -21,7 +21,7 @@
         "source": "http://wordpress.org/support/plugin/pco-kint"
     },
     "require-dev": {
-        "raveren/kint": "1.0.2"
+        "raveren/kint": "1.0.6"
     },
     "suggest": {
         "composer/installers": "~1.0"
