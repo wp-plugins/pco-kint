@@ -1,23 +1,23 @@
 [
     {
         "name": "raveren/kint",
-        "version": "1.0.2",
-        "version_normalized": "1.0.2.0",
+        "version": "1.0.6",
+        "version_normalized": "1.0.6.0",
         "source": {
             "type": "git",
             "url": "https://github.com/raveren/kint.git",
-            "reference": "cc15a0be3fb4de4683fcc15cd68d1027378f86c5"
+            "reference": "0cb1329798c85df500e4dfac607c5d6834c18431"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/raveren/kint/zipball/cc15a0be3fb4de4683fcc15cd68d1027378f86c5",
-            "reference": "cc15a0be3fb4de4683fcc15cd68d1027378f86c5",
+            "url": "https://api.github.com/repos/raveren/kint/zipball/0cb1329798c85df500e4dfac607c5d6834c18431",
+            "reference": "0cb1329798c85df500e4dfac607c5d6834c18431",
             "shasum": ""
         },
         "require": {
             "php": ">=5.1.0"
         },
-        "time": "2015-06-03 14:54:00",
+        "time": "2015-07-02 11:06:58",
         "type": "library",
         "extra": {
             "branch-alias": {

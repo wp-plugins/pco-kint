@@ -8,7 +8,7 @@
  * Plugin Name:       Pco Kint
  * Plugin URI:        https://github.com/Peytz-WordPress/pco-kint
  * Description:       Kint debugger for WordPress - a powerful and modern PHP debugging tool.
- * Version:           1.0.2
+ * Version:           1.0.6
  * Author:            Peytz & Co (Patrick Hesselberg)
  * Author URI:        http://peytz.dk/medarbejdere/
  * GitHub Plugin URI: https://github.com/Peytz-WordPress/pco-kint
