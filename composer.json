@@ -1,0 +1,29 @@
+{
+    "name": "peytz-wordpress/pco-kint",
+    "description": "Kint debugger for WordPress - a powerful and modern PHP debugging tool.",
+    "type": "wordpress-plugin",
+    "keywords": ["wordpress", "plugin", "debug", "kint"],
+    "homepage": "https://github.com/Peytz-WordPress/pco-kint",
+    "authors": [
+        {
+            "name": "Peytz & Co",
+            "email": "wordpress@peytz.dk",
+            "homepage": "http://peytz.dk"
+        },
+        {
+            "name": "Patrick Hesselberg",
+            "email": "phh@peytz.dk",
+            "homepage": "http://peytz.dk/medarbejdere/phh"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/Peytz-WordPress/pco-kint/issues",
+        "source": "http://wordpress.org/support/plugin/pco-kint"
+    },
+    "require-dev": {
+        "raveren/kint": "1.0.0"
+    },
+    "suggest": {
+        "composer/installers": "~1.0"
+    }
+}
